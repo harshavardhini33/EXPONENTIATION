@@ -26,4 +26,4 @@ print('Exponentiation of a given number:',pow(a,b))
 
 
 ## Result:
-Thus the program to find the exponentiation of a given number is written and verified using python programming.
+Thus the program to find the exponentiation of a given number is written and verified using python programming
